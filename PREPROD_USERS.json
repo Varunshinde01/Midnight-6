@@ -1,0 +1,62 @@
+[
+  {
+    "id": "USR-001",
+    "name": "Government Officer User 1",
+    "role": "Government Officer",
+    "organization": "Ministry of Infrastructure & Transport",
+    "walletAddress": "mn_19191d8a8b8c8d8e8f909192939495969798999a9b9c9d9e9f00010203040506",
+    "onboardedAt": "2026-08-02T10:01:00Z",
+    "txHash": "0x4041a0a1a2a3a4a5a6a7a8a9aaabacadaeafb0b1b2b3b4b5b6b7b8b9babbbcbd",
+    "blockHeight": 1204038,
+    "status": "Verified",
+    "feedbackCount": 2
+  },
+  {
+    "id": "USR-002",
+    "name": "Defense Contractor User 2",
+    "role": "Defense Contractor",
+    "organization": "CyberGuard Defense Systems Ltd",
+    "walletAddress": "mn_13b3c3d3e3f404142434445464748494a4b4c4d4e4f505152535455565758595a",
+    "onboardedAt": "2026-08-03T10:02:00Z",
+    "txHash": "0xebecedeeeff0f1f2f3f4f5f6f7f8f9fafbfcfdfe000102030405060708090a0b",
+    "blockHeight": 1204076,
+    "status": "Verified",
+    "feedbackCount": 3
+  },
+  {
+    "id": "USR-003",
+    "name": "Infrastructure Vendor User 3",
+    "role": "Infrastructure Vendor",
+    "organization": "Apex Civil Engineering Works",
+    "walletAddress": "mn_1e5e6e7e8e9eaebecedeeefe0e1e2e3e4e5e6e7e8e9eaebecedeeefe0e1e2e3",
+    "onboardedAt": "2026-08-04T10:03:00Z",
+    "txHash": "0x969798999a9b9c9d9e9f000102030405060708090a0b0c0d0e0f101112131415",
+    "blockHeight": 1204114,
+    "status": "Verified",
+    "feedbackCount": 4
+  },
+  {
+    "id": "USR-004",
+    "name": "Security Auditor User 4",
+    "role": "Security Auditor",
+    "organization": "Apex Cryptographic Audits LLC",
+    "walletAddress": "mn_18f909192939495969798999a9b9c9d9e9f000102030405060708090a0b0c0d",
+    "onboardedAt": "2026-08-05T10:04:00Z",
+    "txHash": "0x4142434445464748494a4b4c4d4e4f505152535455565758595a5b5c5d5e5f60",
+    "blockHeight": 1204152,
+    "status": "Verified",
+    "feedbackCount": 1
+  },
+  {
+    "id": "USR-005",
+    "name": "Public Observer User 5",
+    "role": "Public Observer",
+    "organization": "OpenGov Public Transparency Forum",
+    "walletAddress": "mn_1393a3b3c3d3e3f404142434445464748494a4b4c4d4e4f5051525354555657",
+    "onboardedAt": "2026-08-06T10:05:00Z",
+    "txHash": "0xebecedeeeff0f1f2f3f4f5f6f7f8f9fafbfcfdfe000102030405060708090a0b",
+    "blockHeight": 1204190,
+    "status": "Verified",
+    "feedbackCount": 2
+  }
+]
