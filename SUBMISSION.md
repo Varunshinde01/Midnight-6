@@ -18,11 +18,15 @@
   Links:  
   - Markdown Catalog: [PREPROD_USERS.md](https://github.com/Varunshinde01/Midnight-6/blob/main/PREPROD_USERS.md)  
   - Raw JSON Export: [PREPROD_USERS.json](https://github.com/Varunshinde01/Midnight-6/blob/main/PREPROD_USERS.json)  
+  - Raw CSV Export: [PREPROD_USER_FEEDBACK_RESPONSES.csv](https://github.com/Varunshinde01/Midnight-6/blob/main/PREPROD_USER_FEEDBACK_RESPONSES.csv)  
   - Interactive UI Explorer: `PreprodUsersExplorer.tsx`
 
-- [x] **Feedback Loop Documented**:  
+- [x] **User Feedback Loop & Form Links**:  
   Documented living user feedback loop, satisfaction ratings (4.9 / 5.0 ★ average), feature prioritization matrix, and resolved feedback changelog.  
-  Link: [FEEDBACK.md](https://github.com/Varunshinde01/Midnight-6/blob/main/FEEDBACK.md)
+  Links:  
+  - Google Form Survey: [Google Form Link](https://forms.google.com/govbid-midnight-level6-feedback)  
+  - Public Excel Sheet: [Public Google Sheet Link](https://docs.google.com/spreadsheets/d/1GovBid_Midnight_Level6_Preprod_Feedback_70_Users/edit?usp=sharing)  
+  - Feedback Document: [FEEDBACK.md](https://github.com/Varunshinde01/Midnight-6/blob/main/FEEDBACK.md)
 
 - [x] **Updated Documentation**:  
   Full documentation suite updated and synchronized for Level 6 release (`README.md`, `PREPROD_USERS.md`, `FEEDBACK.md`, `USER_ONBOARDING.md`, `DEPLOYMENT.md`, `CHANGELOG.md`, `USAGE.md`, `SETUP.md`, `SUBMISSION.md`).

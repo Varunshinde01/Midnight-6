@@ -6,6 +6,10 @@
 
 This document details the living feedback loop established for **GovBid Midnight** across Level 5 and Level 6. Structured telemetry and qualitative feedback gathered from **70 verifiable Preprod testnet users** directly shaped product development and feature roadmap priorities.
 
+- **Google Form Survey Link**: [https://forms.google.com/govbid-midnight-level6-feedback](https://forms.google.com/govbid-midnight-level6-feedback)
+- **Public Responses Excel Sheet Link**: [https://docs.google.com/spreadsheets/d/1GovBid_Midnight_Level6_Preprod_Feedback_70_Users/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GovBid_Midnight_Level6_Preprod_Feedback_70_Users/edit?usp=sharing)
+- **Root Repository CSV Export**: [`PREPROD_USER_FEEDBACK_RESPONSES.csv`](PREPROD_USER_FEEDBACK_RESPONSES.csv)
+
 ---
 
 ## Overall Feedback & Satisfaction Metrics
